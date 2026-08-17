@@ -3,11 +3,6 @@ rg = {
     name     = "rg-nikita"
     location = "westus"
   }
-
-   rg1 = {
-    name     = "rg-nikit123a"
-    location = "westus"
-  }
 }
 
 vnet = {
